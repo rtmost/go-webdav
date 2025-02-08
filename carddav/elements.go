@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/emersion/go-webdav/internal"
+	"github.com/rtmost/go-webdav/internal"
 )
 
 const namespace = "urn:ietf:params:xml:ns:carddav"
